@@ -1,4 +1,11 @@
+com/maro/study/springboot/web/dto/BasicResponseDto.java
+ com.maro.study.springboot.web.dto.BasicResponseDto
 com/maro/study/springboot/Application.java
  com.maro.study.springboot.Application
+com/maro/study/springboot/domain/posts/PostsRepository.java
+ com.maro.study.springboot.domain.posts.PostsRepository
+com/maro/study/springboot/domain/posts/Posts.java
+ com.maro.study.springboot.domain.posts.Posts
+ com.maro.study.springboot.domain.posts.Posts$PostsBuilder
 com/maro/study/springboot/web/BasicController.java
  com.maro.study.springboot.web.BasicController
